@@ -12,4 +12,4 @@ Normally there is NO need for support material.
 
 ## The example used is https://3dverkstan.se/protective-visor/ by 3dverkstan
 
-![](photo.jpg)
+![](photo.png)
