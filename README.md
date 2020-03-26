@@ -9,6 +9,8 @@ Designs available:
 
 - Stacked Prusa main part
 
+## Please open an issue if you have any requests
+
 Stacked with OpenScad software, the code is available in the "source_code" directory.
 
 ![](photo.jpg)
