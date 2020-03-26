@@ -2,13 +2,13 @@
 
 Designs available:
 
-- The A mask homologated in a hospital in Madrid
-  - Original B1 part
-  - Stacked: B2 part
-
 - Stacked: Prusa mask main part
 
 - Stacked: Protective visor by 3dverkstan
+
+- The A mask homologated in a hospital in Madrid (unfortunately I cannot recommend the design, simpler is better, so avoid this one)
+  - Original B1 part
+  - Stacked: B2 part
 
 There is one empty layer between each part to allow an easy separation. Support material not needed.
 
