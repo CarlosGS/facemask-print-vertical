@@ -4,10 +4,10 @@ Designs available:
 
 - The A mask homologated in a hospital in Madrid
   - Original B1 part
-  - Stacked B2 part homologated in a hospital in Madrid
-  - The full A mask but WITHOUT the top covers
+  - Stacked: B2 part
+  - Stacked: The full A mask but WITHOUT the top covers
 
-- Stacked Prusa main part
+- Stacked: Prusa mask main part
 
 ## Please open an issue if you have any requests
 
