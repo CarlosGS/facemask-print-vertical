@@ -12,3 +12,5 @@ Designs available:
 Stacked with OpenScad software, the code is available in the "source_code" directory.
 
 ![](photo.jpg)
+
+![](foldable_mask_stack.jpg)
