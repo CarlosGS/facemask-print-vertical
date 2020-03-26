@@ -10,6 +10,8 @@ Tutorial to generate your own models:
 
 It is better to use coarse settings (0.3-0.4mm layer height). Normally there is NO need for support material.
 
-## The example used is https://3dverkstan.se/protective-visor/ by 3dverkstan. More files are [here](https://github.com/CarlosGS/facemask-print-vertical/tree/master/stl)
+## Check the Z layers before printing to ensure there is exactly one layer missing between each part
+
+#### The example used is https://3dverkstan.se/protective-visor/ by 3dverkstan. More files are [here](https://github.com/CarlosGS/facemask-print-vertical/tree/master/stl)
 
 ![](photo.png)
