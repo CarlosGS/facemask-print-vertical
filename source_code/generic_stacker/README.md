@@ -1,4 +1,4 @@
-# Stack and print multiple copies with a easy separation
+# Stack and print multiple copies (easy separation!)
 
 Tutorial to generate your own models:
 
