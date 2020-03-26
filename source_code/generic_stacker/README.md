@@ -10,6 +10,6 @@ Tutorial to generate your own models:
 
 Normally there is NO need for support material.
 
-## The example used is https://3dverkstan.se/protective-visor/ by 3dverkstan
+## The example used is https://3dverkstan.se/protective-visor/ by 3dverkstan. More files are [here](https://github.com/CarlosGS/facemask-print-vertical/tree/master/stl)
 
 ![](photo.png)
