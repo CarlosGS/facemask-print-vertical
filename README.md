@@ -14,6 +14,8 @@ There is one empty layer between each part to allow an easy separation. Support 
 
 Hay una capa vacía entre cada pieza, lo que permite separarlas fácilmente. No es necesario material de soporte.
 
+## Check the Z layers before printing to ensure there is exactly one layer missing between each part
+
 Altura de capa sugerida / suggested layer height: 0.3-0.4 mm
 
 ## Please open an issue if you have any requests
