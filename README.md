@@ -5,9 +5,10 @@ Designs available:
 - The A mask homologated in a hospital in Madrid
   - Original B1 part
   - Stacked: B2 part
-  - Stacked: The full A mask but WITHOUT the top covers
 
 - Stacked: Prusa mask main part
+
+- Stacked: Protective visor by 3dverkstan
 
 There is one empty layer between each part to allow an easy separation. Support material not needed.
 
@@ -21,4 +22,4 @@ Stacked with OpenScad software, the code is available in the "source_code" direc
 
 ![](photo.jpg)
 
-![](foldable_mask_stack.jpg)
+![](source_code/generic_stacker/photo.png)
