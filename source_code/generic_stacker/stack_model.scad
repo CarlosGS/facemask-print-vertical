@@ -15,4 +15,4 @@ for (i = [0:N_copies-1])
 columnX = 72;
 columnY = -10;
 translate([columnX,columnY,0])
-    cylinder(r=1,h=N_copies*(part_height+separation),$fn=12);
+    cylinder(r=1,h=N_copies*(part_height+separation)-2*separation,$fn=12);
