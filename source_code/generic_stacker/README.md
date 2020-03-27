@@ -12,6 +12,12 @@ It is better to use coarse settings (0.3-0.4mm layer height). Normally there is 
 
 ## Check the Z layers before printing to ensure there is exactly one layer missing between each part
 
+## First adjust your setup with the calibration example:
+
+https://github.com/CarlosGS/facemask-print-vertical/tree/master/source_code/adhesion_test
+
+<img src="/source_code/adhesion_test/photo.png" width="300">
+
 #### The example used is https://3dverkstan.se/protective-visor/ by 3dverkstan. More files are [here](https://github.com/CarlosGS/facemask-print-vertical/tree/master/stl)
 
 ![](photo.png)
