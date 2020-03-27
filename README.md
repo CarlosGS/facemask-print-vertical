@@ -22,7 +22,7 @@ https://github.com/CarlosGS/facemask-print-vertical/tree/master/source_code/adhe
 
 <img src="source_code/adhesion_test/photo.png" width="300">
 
-Altura de capa sugerida / suggested layer height: 0.3-0.4 mm
+Tested with [this cura profile](https://github.com/MKme/I3-Mega-3D-Printer-Settings-Resources/blob/master/Cura%20Profiles/i3%20Mega%20Erics%20Main%20Profile.curaprofile) (see [the result](https://twitter.com/MKmeOrg/status/1243522985262186496) ). I suggest to **first try with your own profile and layer height 0.3mm**
 
 ## Please open an issue if you have any requests
 
