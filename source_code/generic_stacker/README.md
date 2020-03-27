@@ -8,7 +8,7 @@ Tutorial to generate your own models:
 - Compile the model using F5 to preview until all looks OK
 - Render with F6 and export the STL file.
 
-It is better to use coarse settings (0.3-0.4mm layer height). Normally there is NO need for support material.
+Tested with [this cura profile](https://github.com/MKme/I3-Mega-3D-Printer-Settings-Resources/blob/master/Cura%20Profiles/i3%20Mega%20Erics%20Main%20Profile.curaprofile) (see [the result](https://twitter.com/MKmeOrg/status/1243522985262186496) ). I suggest to **first try with your own profile and layer height 0.3mm**. Normally there is NO need for support material.
 
 ## Check the Z layers before printing to ensure there is exactly one layer missing between each part
 
