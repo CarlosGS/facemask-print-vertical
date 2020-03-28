@@ -1,0 +1,11 @@
+{
+    "parameterSets": {
+        "number_of_parts": {
+            "number_of_parts": "6"
+        },
+        "design default values": {
+            "number_of_parts": "3"
+        }
+    },
+    "fileFormatVersion": "1"
+}
